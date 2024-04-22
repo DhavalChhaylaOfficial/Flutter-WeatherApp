@@ -23,6 +23,10 @@
   * It saves the last searched city name in the local storage of the device and display its weather information when the app is relaunched using SharedPreferances.
   * Saves the response data for offline use and displays it on application startup or in case of no internet connection.
 
+## App Video
+
+https://github.com/DhavalChhaylaOfficial/Flutter-WeatherApp/assets/82968230/413aecb8-8ff1-430e-acba-40a345a7cb67 
+   
 ## App Snapshots
 
 <table>
@@ -32,9 +36,9 @@
      <td>Home Screen</td>
   </tr>
   <tr>
-    <td><img src="preview/1.jpeg" width=250 height=480></td>
-    <td><img src="preview/2.jpeg" width=250 height=480></td>
-    <td><img src="preview/3.jpeg" width=250 height=480></td>
+    <td><img src="Preview/1.png" width=250 height=480></td>
+    <td><img src="Preview/2.png" width=250 height=480></td>
+    <td><img src="Preview/3.png" width=250 height=480></td>
   </tr>
 
    <tr>
@@ -43,9 +47,9 @@
      <td>Cart Screen</td>
   </tr>
   <tr>
-    <td><img src="preview/4.jpeg" width=270 height=480></td>
-    <td><img src="preview/5.jpeg" width=270 height=480></td>
-    <td><img src="preview/6.jpeg" width=270 height=480></td>
+    <td><img src="Preview/4.png" width=270 height=480></td>
+    <td><img src="Preview/5.png" width=270 height=480></td>
+    <td><img src="Preview/6.png" width=270 height=480></td>
   </tr>
 
  

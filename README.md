@@ -36,9 +36,9 @@ https://github.com/DhavalChhaylaOfficial/Flutter-WeatherApp/assets/82968230/413a
      <td>Home Screen</td>
   </tr>
   <tr>
-    <td><img src="Preview/1.png" width=250 height=480></td>
-    <td><img src="Preview/2.png" width=250 height=480></td>
-    <td><img src="Preview/3.png" width=250 height=480></td>
+    <td><img src="Preview/1.png" width=240 height=510></td>
+    <td><img src="Preview/2.png" width=240 height=510></td>
+    <td><img src="Preview/3.png" width=240 height=510></td>
   </tr>
 
    <tr>
@@ -47,9 +47,9 @@ https://github.com/DhavalChhaylaOfficial/Flutter-WeatherApp/assets/82968230/413a
      <td>Cart Screen</td>
   </tr>
   <tr>
-    <td><img src="Preview/4.png" width=270 height=480></td>
-    <td><img src="Preview/5.png" width=270 height=480></td>
-    <td><img src="Preview/6.png" width=270 height=480></td>
+    <td><img src="Preview/4.png" width=240 height=510></td>
+    <td><img src="Preview/5.png" width=240 height=510></td>
+    <td><img src="Preview/6.png" width=240 height=510></td>
   </tr>
 
  
